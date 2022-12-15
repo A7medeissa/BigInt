@@ -1,0 +1,15 @@
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\Bigint.csproj.AssemblyReference.cache
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\Bigint.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\Bigint.AssemblyInfoInputs.cache
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\Bigint.AssemblyInfo.cs
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\Bigint.csproj.CoreCompileInputs.cache
+D:\c# projects\Bigint\Bigint\bin\Debug\net6.0\Bigint.exe
+D:\c# projects\Bigint\Bigint\bin\Debug\net6.0\Bigint.deps.json
+D:\c# projects\Bigint\Bigint\bin\Debug\net6.0\Bigint.runtimeconfig.json
+D:\c# projects\Bigint\Bigint\bin\Debug\net6.0\Bigint.dll
+D:\c# projects\Bigint\Bigint\bin\Debug\net6.0\Bigint.pdb
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\Bigint.dll
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\refint\Bigint.dll
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\Bigint.pdb
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\Bigint.genruntimeconfig.cache
+D:\c# projects\Bigint\Bigint\obj\Debug\net6.0\ref\Bigint.dll
